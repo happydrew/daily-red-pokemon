@@ -121,4 +121,7 @@ Ready to test your plan? Open [daily red pokemon game](https://dailyredpokemon.c
 
 Find the project on [GitHub](https://github.com/happydrew/daily-red-pokemon), browse [Pinterest](https://www.pinterest.com/veogen/), or connect through [Drew Grant's LinkedIn](https://www.linkedin.com/in/drew-grant-200528328/). For questions or corrections, email [support@dailyredpokemon.com](mailto:support@dailyredpokemon.com).
 
+Read More on these related resources:
+[CSDN](https://blog.csdn.net/zhuge134/article/details/167922365)
+
 DailyRedPokemon is an independent fan-made project, unaffiliated with Nintendo, Creatures, Game Freak, or The Pokémon Company. Pokémon names and character artwork belong to their respective rights holders.
